@@ -8,7 +8,7 @@ The first section contains websites, encrypted by myself based on the PSD conven
 
 The second section contains a few JS training projects.
 
-The third department is regarding sheer JS plans / jQuery. They used: HTML, CSS, Bootstrap, RWD, clean JS, jQuery, Ajax, API, Grunt, Git.
+The third department is regarding sheer JS plans / jQuery. Used: HTML, CSS, Bootstrap, RWD, clean JS, jQuery, Ajax, API, Grunt, Git.
 
 In the subject of every project a link to the version was added live. If you are interested I am encouraging you to watch projects and the evaluation 🙂
 

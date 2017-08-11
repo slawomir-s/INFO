@@ -4,7 +4,7 @@ Hello !
 
 I divided my repository on account of technologies used in projects and transparency.
 
-The first section contains websites, encrypted by myself based on the PSD convention. Used: HTML, CSS / SASS, Bootstrap, RWD, Ground, Git.
+The first section contains websites, encrypted by myself based on the PSD convention. Used: HTML, CSS / SASS, Bootstrap, RWD, Grunt, Git.
 
 The second section contains a few JS training projects.
 

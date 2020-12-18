@@ -12,4 +12,4 @@ The third department is regarding sheer JS plans / jQuery. Used: HTML, CSS, Boot
 
 In the subject of every project a link to the version was added live. If you are interested I am encouraging you to watch projects and the evaluation 🙂
 
-Please feel free to call me on 667 100 594 or contact by email: slaweks48@gmail.com, if you require any further information.
+Please contact by email: slaweks48@gmail.com, if you require any further information.
